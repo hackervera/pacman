@@ -1,0 +1,3 @@
+Uses canvas and nodejs to render multi-player pacman
+you need to install nodejs and socket.io ( http://wwww.socket.io )
+playable at http://pacman.nostat.us
